@@ -1,0 +1,10 @@
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\obj\Debug\Char2.csprojResolveAssemblyReference.cache
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\obj\Debug\Char2.frmMain.resources
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\obj\Debug\Char2.Properties.Resources.resources
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\obj\Debug\Char2.csproj.GenerateResource.Cache
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\bin\Debug\Ký Tự 2.exe.config
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\bin\Debug\Ký Tự 2.exe
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\bin\Debug\Ký Tự 2.pdb
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\obj\Debug\Ký Tự 2.exe
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\obj\Debug\Ký Tự 2.pdb
+c:\users\e1878\documents\visual studio 2015\Projects\Char2\Char2\bin\Debug\Excel.dll
